@@ -1,0 +1,12 @@
+#ifndef TEMPLATECPPCONSOLE_TEMPLATECPPCLASS_H
+#define TEMPLATECPPCONSOLE_TEMPLATECPPCLASS_H
+
+
+class TemplateCppClass {
+public:
+    static int GetSomething();
+
+};
+
+
+#endif //TEMPLATECPPCONSOLE_TEMPLATECPPCLASS_H
